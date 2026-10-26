@@ -1,0 +1,12 @@
+Bookshelf	2.16385E7
+Chair	1.38285E7
+Desk	2.5296E7
+Headphones	6606000.0
+Keyboard	3756000.0
+Laptop	1.64065E8
+Monitor	3.5292E7
+Mouse	1501500.0
+Phone	8.9875E7
+Printer	5.2275E7
+Tablet	5.8716E7
+USB Cable	825000.0
